@@ -1,0 +1,14 @@
+@comment $OpenBSD$
+lib/python${MODPY_VERSION}/site-packages/nassl/
+lib/python${MODPY_VERSION}/site-packages/nassl-0.13.6-py${MODPY_VERSION}.egg-info
+lib/python${MODPY_VERSION}/site-packages/nassl/__init__.py
+lib/python${MODPY_VERSION}/site-packages/nassl/__init__.pyc
+lib/python${MODPY_VERSION}/site-packages/nassl/_nassl.so
+lib/python${MODPY_VERSION}/site-packages/nassl/debug_ssl_client.py
+lib/python${MODPY_VERSION}/site-packages/nassl/debug_ssl_client.pyc
+lib/python${MODPY_VERSION}/site-packages/nassl/ocsp_response.py
+lib/python${MODPY_VERSION}/site-packages/nassl/ocsp_response.pyc
+lib/python${MODPY_VERSION}/site-packages/nassl/ssl_client.py
+lib/python${MODPY_VERSION}/site-packages/nassl/ssl_client.pyc
+lib/python${MODPY_VERSION}/site-packages/nassl/x509_certificate.py
+lib/python${MODPY_VERSION}/site-packages/nassl/x509_certificate.pyc

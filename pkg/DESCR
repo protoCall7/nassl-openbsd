@@ -1,0 +1,3 @@
+Experimental OpenSSL wrapper for Python 2.7 and SSLyze. Do NOT use for anything
+serious. This code has not been properly tested/reviewed and is absolutely not
+production ready.
