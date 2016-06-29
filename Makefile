@@ -2,12 +2,13 @@
 
 COMMENT =	Experimental OpenSSL wrapper for Python 2.7 and SSLyze
 
-DISTNAME =	nassl-0.13.6
+V = 0.13.7
+DISTNAME =	nassl-${V}
 PKGNAME =	py-${DISTNAME}
 
-GH_ACCOUNT =	protoCall7
+GH_ACCOUNT =	nabla-c0d3
 GH_PROJECT =	nassl
-GH_COMMIT =	07aa83e86f41684dc0e66478453ff73596787d73
+GH_TAGNAME =	${V}
 
 CATEGORIES =	security
 
